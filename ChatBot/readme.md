@@ -35,6 +35,6 @@ project-folder/
 - └── requirements.txt        # Python dependencies
 
 
-# Download the Required dependencies using the command - pip install -r requirements.txt
-# Open the terminal in "Folder" and run the bot using the command - streamlit run bot.py
+### Download the Required dependencies using the command - pip install -r requirements.txt
+### Open the terminal in "Folder" and run the bot using the command - streamlit run bot.py
 		
