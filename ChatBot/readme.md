@@ -27,7 +27,7 @@ This project is a simple, fast, and effective chatbot that answers user question
 
 ## How to use it (Locally)?
 
-- Project Structure 
+Project Structure 
 	|- Folder 
 		|-bot.py
 		|-Combined_data.txt
