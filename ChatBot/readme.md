@@ -28,11 +28,11 @@ This project is a simple, fast, and effective chatbot that answers user question
 ## How to use it (Locally)?
 
 project-folder/
-│
-├── bot.py                  # Main Streamlit chatbot app
-├── Combined_data.txt       # Knowledge base (cleaned, structured text)
-├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies
+- │
+- ├── bot.py                  # Main Streamlit chatbot app
+- ├── Combined_data.txt       # Knowledge base (cleaned, structured text)
+- ├── README.md               # Project documentation
+- └── requirements.txt        # Python dependencies
 
 
 - Download the Required dependencies using the command - pip install -r requirements.txt
